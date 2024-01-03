@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "AE.js",
-    "version": "1.0",
+    "version": "1.1",
   
     "description": "Adds additional functions to Astroempries game.",
     "homepage_url": "https://github.com/marko-babic/astroempires-extension",
